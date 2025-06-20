@@ -1,5 +1,5 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hugo - 标签 - 我的全新</title><link>https://Owlw01.github.io/tags/hugo/</link><description>Hugo - 标签 - 我的全新</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 14 Jun 2025 16:51:49 +0800</lastBuildDate><atom:link href="https://Owlw01.github.io/tags/hugo/" rel="self" type="application/rss+xml"/><item><title>Hugo和LoveIt的简单安装和配置</title><link>https://Owlw01.github.io/posts/hugo%E5%92%8Cloveit%E7%9A%84%E7%AE%80%E5%8D%95%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AE/</link><pubDate>Sat, 14 Jun 2025 16:51:49 +0800</pubDate><author>owl</author><guid>https://Owlw01.github.io/posts/hugo%E5%92%8Cloveit%E7%9A%84%E7%AE%80%E5%8D%95%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AE/</guid><description><![CDATA[<h2 id="前言">前言</h2>
-<p>Sada</p>
-<h2 id="正文">正文</h2>
-<h2 id="总结">总结</h2>
-<h2 id="参考">参考</h2>]]></description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hugo - 标签 - owl‘s blog</title><link>https://Owlw01.github.io/tags/hugo/</link><description>Hugo - 标签 - owl‘s blog</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 14 Jun 2025 16:51:49 +0800</lastBuildDate><atom:link href="https://Owlw01.github.io/tags/hugo/" rel="self" type="application/rss+xml"/><item><title>Hugo和LoveIt的简单安装和配置</title><link>https://Owlw01.github.io/posts/hugo%E5%92%8Cloveit%E7%9A%84%E7%AE%80%E5%8D%95%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AE/</link><pubDate>Sat, 14 Jun 2025 16:51:49 +0800</pubDate><author>owl</author><guid>https://Owlw01.github.io/posts/hugo%E5%92%8Cloveit%E7%9A%84%E7%AE%80%E5%8D%95%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AE/</guid><description><![CDATA[<p>几年没写博客了，最近想了想，不管怎样，不管好坏，都要记录下，所以重新弄了一下hugo部署到GitHubPage，记录一下过程。</p>
+<h2 id="准备工作">准备工作</h2>
+<ol>
+<li>
+<p>一台可以安装git的电脑。</p>]]></description></item></channel></rss>
